@@ -5,10 +5,10 @@ const Header = () => {
     <header className={HeaderCSS.header}>
         <nav className={HeaderCSS.nav}>
             <ul className={HeaderCSS.list}>
-                <li><a href="#">Novel</a></li>
-                <li><a href="#">Romance</a></li>
-                <li><a href="#">Sci-fi</a></li>
-                <li><a href="#">Self Help</a></li>
+                <li><a href="#">Orai Lietuvoje</a></li>
+                <li><a href="#">Miestai</a></li>
+                <li><a href="#">Vilnius</a></li>
+                <li><a href="#">Klaipeda</a></li>
             </ul>
         </nav>
     </header>
